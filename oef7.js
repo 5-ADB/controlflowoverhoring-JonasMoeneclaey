@@ -7,3 +7,6 @@
  * ####
  * #####
  */
+let hekje = "#"
+
+for (hekje, hekje == "#####", )

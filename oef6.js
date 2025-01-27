@@ -5,3 +5,8 @@
  */
 
 let kleur;
+
+while (kleur === undefined){
+    console.log("default kleur: groen");
+    break
+}

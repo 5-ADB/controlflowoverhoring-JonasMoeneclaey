@@ -13,3 +13,11 @@
  * - licht uit  =>  licht gaat uit
  * 
  */
+
+let openDeur
+let muziek = true
+let stilte = true
+
+if (muziek === true){
+    console.log("muziek start met spelen")
+}

@@ -6,4 +6,11 @@
  */
 
 const grondIsDroog = true;
-const geenRegenVoorspeld = true;
+const geenRegenVoorspeld = false;
+
+if (grondIsDroog === true && geenRegenVoorspeld === true) {
+    console.log("sproeiers aan");
+}
+else {
+    console.log("sproeiers uit")
+}
