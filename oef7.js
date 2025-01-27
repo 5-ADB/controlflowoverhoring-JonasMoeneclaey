@@ -8,7 +8,6 @@
  * #####
  */
 
-for (let hekje = 1; hekje > 10; hekje++) {
-    hekje += 1
+for (let hekje = "#"; hekje > "#####"; hekje++) {
     console.log(hekje)
 }

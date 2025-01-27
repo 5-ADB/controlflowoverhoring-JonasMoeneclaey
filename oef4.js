@@ -13,20 +13,26 @@
  * - licht uit  =>  licht gaat uit
  * 
  */
-
+let commande;
 let openDeur = true
 let muziek = true
 let stilte = true
 let lichtAan = true
 let lichtUit = true
-
-if (openDeur = true){
-    console.log("deur gaat open");
-}
-
-if (muziek = true){
-    console.log("muziek start spelen")
-}
-if (stilte = true){
-    console.log("muziek gaat uit");
+switch (commande) {
+    case(openDeur = true):{
+        console.log("deur gaat open");
+    }
+    case(muziek = true):{
+        console.log("muziek start met spelen")
+    }
+    case(stilte = true):{
+        console.log("muziek gaat uit")
+    }
+    case(lichtAan = true):{
+        console.log("licht gaat aan");
+    }
+    case(lichtUit = true):{
+        console.log("licht gaat uit")
+    }
 }
