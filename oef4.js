@@ -14,7 +14,7 @@
  * 
  */
 
-let openDeur = "deur gaat open"
+let openDeur = true
 let muziek = true
 let stilte = true
 let lichtAan = true
@@ -30,4 +30,3 @@ if (muziek = true){
 if (stilte = true){
     console.log("muziek gaat uit");
 }
-if (lichtAan = true)
