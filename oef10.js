@@ -17,5 +17,5 @@
  *
  */
 
-let startgetal = 2;
-const eindgetal = 12;
+let startGetal = 2;
+const eindGetal = 12;

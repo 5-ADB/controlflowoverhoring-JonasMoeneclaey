@@ -14,10 +14,20 @@
  * 
  */
 
-let openDeur
+let openDeur = "deur gaat open"
 let muziek = true
 let stilte = true
+let lichtAan = true
+let lichtUit = true
 
-if (muziek === true){
-    console.log("muziek start met spelen")
+if (openDeur = true){
+    console.log("deur gaat open");
 }
+
+if (muziek = true){
+    console.log("muziek start spelen")
+}
+if (stilte = true){
+    console.log("muziek gaat uit");
+}
+if (lichtAan = true)

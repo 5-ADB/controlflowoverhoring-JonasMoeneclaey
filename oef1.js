@@ -5,4 +5,6 @@
  */
 
 let getal1;
-const getal2 = 1;
+let getal2 = Boolean;
+const getal3 = 1;
+const getal4 = "hallo";

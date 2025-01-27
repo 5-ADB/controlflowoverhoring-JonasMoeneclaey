@@ -4,13 +4,15 @@
 
 // 1. for lus
 /**
- * for (variable; )
+ * for (variable; variable < 10; variable++){
+ *  console.log(variable)
+ * }
  */
 // 2. if else
 /**
  * if (variable === 1){
- *  console.log("Variable is 1")
- * else
+ *  console.log("Variable is 1")}
+ * else{
  *  console.log("Variable heeft een foute waarde")}
  */
 // 3. do while
