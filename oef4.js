@@ -1,3 +1,7 @@
+// zeer veel onnodige variabelen
+// Je opbouw van case is niet correct
+// een conditie kan geen inistialisatie bevatten (1 enkele = )
+
 /**
  * Maak zelf de nodige variabelen aan voor onderstaande probleem
  * 

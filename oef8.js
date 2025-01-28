@@ -1,3 +1,5 @@
+// uitkomst wordt maar 1x bepaald, dus je krijgt een oneindige lus. 
+
 /**
  * Op basis van een kerngetal (0 tot 10) (opgegeven in het programm) toon ik de tafel van 10 tot 
  * aan dit getal

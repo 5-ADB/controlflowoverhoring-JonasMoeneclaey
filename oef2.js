@@ -1,3 +1,6 @@
+// jij geeft een combinatie van variabele en voorbeelden
+// Dit is niet de syntax 
+
 /**
  * Geef de correct syntact voor onderstaande zaken
  */

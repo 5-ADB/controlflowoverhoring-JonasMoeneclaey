@@ -1,3 +1,5 @@
+// geen oplossing
+
 /**
  * Je beschikt over een startgetal en een eindgetal
  * Je verhoogt het startgetal telkens met zichzelf 

@@ -1,3 +1,5 @@
+// geen oplossing
+
 /**
  * een startgetal wordt telkens verhoogt met 2.
  * dit tot je aan het eindgetal komt.

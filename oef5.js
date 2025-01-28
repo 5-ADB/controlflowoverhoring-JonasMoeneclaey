@@ -1,3 +1,5 @@
+// hier staat minder dan opgave 4 
+
 /**
  * Je bouwt verder op de opgave 4.
  * 

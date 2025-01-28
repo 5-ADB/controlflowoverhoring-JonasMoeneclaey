@@ -1,3 +1,6 @@
+// slechte keuze van benamingen
+// Boolean is een type, maar je maakt hiervan geen aan! 
+
 /**
  * Maak 4 verschillende types van variabelen aan.
  * 2 van de variabelen zijn aanpasbaar doorheen de rest van de code, 
